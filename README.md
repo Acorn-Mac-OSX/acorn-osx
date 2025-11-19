@@ -28,7 +28,7 @@ For users searching for a balanced, intuitive alternative to complex design soft
 
 ## Screenshots
 
-![Acorn Interface](https://macx.ws/uploads/posts/2017-08/thumbs/1503487758_acorn_02.png)
+![Acorn Interface](https://macx.ws/uploads/posts/2017-08/1503487758_acorn_02.png)
 
 ---
 
